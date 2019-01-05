@@ -1,1 +1,2 @@
-thi is my first git dir.
+this is my first git dir.
+aaa lall 
